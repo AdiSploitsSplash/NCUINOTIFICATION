@@ -1,5 +1,5 @@
-local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/AdiSploitsSplash/NOTIFY/main/notifier.lua%22))()
-local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/AdiSploitsSplash/notifiy/main/notify.lua%22))()
+local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/AdiSploitsSplash/NOTIFY/main/notifier.lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/AdiSploitsSplash/notifiy/main/notify.lua"))()
 
 wait(1)
 print("Nitronic | Script Executed")
